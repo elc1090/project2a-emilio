@@ -20,12 +20,16 @@ gitHubForm.addEventListener('submit', (e) => {
         .then(response => response.json()) // parse response into json
         .then(data => {
 
+            let ul = document.getElementById('commits');
+            while (ul.firstChild) {
+                ul.removeChild(ul.firstChild)
+            }
+
             // update html with data from github
             for (let i in data) {
                 // Get the ul with id of userRepos
 
                 if (data.message === "Not Found") {
-                    let ul = document.getElementById('userRepos');
 
                     // Create variable that will create li's to be added to ul
                     let li = document.createElement('li');
@@ -38,8 +42,6 @@ gitHubForm.addEventListener('submit', (e) => {
                     // Append each li to the ul
                     ul.appendChild(li);
                 } else {
-
-                    let ul = document.getElementById('commits');
 
                     // Create variable that will create li's to be added to ul
                     let li = document.createElement('li');
