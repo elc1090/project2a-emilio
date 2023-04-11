@@ -8,38 +8,31 @@
 > 5. Double-check: Certifique-se de que seu README.md não contenha instruções de entrega!
 > 6. Entregue este README.md dentro da pasta raiz do repositório de entrega. 
 
-![Screenshot do projeto](https://mdswanson.com/static/chops-ux-step-4.png "Screenshot do projeto").
+
+![Screenshot do projeto](https://user-images.githubusercontent.com/6577541/231195427-86cfd1fb-3a4a-4b09-ba2f-4254be2884d9.png "Screenshot do projeto").
 
 
 #### Daploy
 
-Preencha aqui a URL para acesso ao site publicado
-
+[Github Pages](https://elc1090.github.io/project2a-emilio/)
 
 #### Desenvolvedores
 
-Preencha aqui os nomes de participantes da dupla que desenvolveu o trabalho
-
+ - Emilio B. PEdrollo
 
 #### Ambiente de desenvolvimento
 
 Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas, por exemplo:
-- VS Code
-- Outras
+- PHPStorm
+- GitHub
 
 #### Créditos
 
 Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
-- URL de tutoriais/vídeos consultados
-- Créditos para colegas que colaboraram
-
 
 #### Bastidores
 
-
-Preencha aqui um breve relato dos bastidores da realização deste exercício, com uma parte focada no trabalho em dupla e outra individual com impressões de cada participante.
-
-
+Not much...
 
 ---
 Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2023a) em 2023a
